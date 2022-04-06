@@ -1,0 +1,104 @@
+[08-Nov-2021 18:20:40 ASIA/KOLKATA] PHP Fatal error:  Cannot declare class App\Http\Middleware\Admin\CheckRole13, because the name is already in use in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/app/Http/Middleware/Admin/CheckRole12.php on line 7
+[19-Nov-2021 20:33:49 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/kern.php on line 54
+[24-Nov-2021 14:55:42 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/kern.php on line 54
+[24-Nov-2021 19:07:57 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:32:51 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:35:03 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:37:18 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:37:27 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:38:00 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:40:43 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 266240 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:40:51 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 266240 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:43:42 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 36864 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php on line 60
+[25-Nov-2021 10:44:44 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 131072 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/dompdf/dompdf/lib/Cpdf.php on line 1211
+[25-Nov-2021 10:44:58 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 327680 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/phenx/php-font-lib/src/FontLib/Table/Type/cmap.php on line 144
+[25-Nov-2021 10:45:42 ASIA/KOLKATA] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 327680 bytes) in /home/webmediatricks/public_html/luxuryeyewear.in/eyewear/vendor/dompdf/dompdf/lib/Cpdf.php on line 1088
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:46 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:47 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[02-Mar-2022 19:11:48 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:53 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:53 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:53 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:53 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:54 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:55 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:56 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[03-Mar-2022 08:27:56 UTC] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0

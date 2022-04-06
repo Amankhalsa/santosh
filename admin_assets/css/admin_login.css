@@ -1,0 +1,67 @@
+#main-container{ background-color: #01579b; height: 50%;
+}
+#shift-form{ margin-top: 10%;
+}
+#card-form{ border-radius:0%;
+            box-shadow: 2px 2px 12px grey;
+}
+#icon-animate{ color: #01579b;
+               animation: icon 2s;
+}
+@keyframes icon{
+    0%{
+       transform:rotateZ(0deg); 
+    }20%{
+       transform:rotateZ(20deg);
+    }30%{
+        transform:rotateZ(-20deg);
+    }40%{
+        transform:rotateZ(20deg);
+    }50%{
+       transform:rotateZ(-20deg);
+    }60%{
+        transform:rotateZ(20deg);
+    }70%{
+        transform:rotateZ(-20deg);
+    }80%{
+        transform:rotateZ(20deg);
+    }90%{
+        transform:rotateZ(-20deg);
+    }100%{
+        transform:rotateZ(0deg);
+    }
+}
+@-moz-keyframes icon{
+    0%{
+        transform:rotateZ(0deg); 
+     }20%{
+        transform:rotateZ(20deg);
+     }30%{
+         transform:rotateZ(-20deg);
+     }40%{
+         transform:rotateZ(20deg);
+     }50%{
+        transform:rotateZ(-20deg);
+     }60%{
+         transform:rotateZ(20deg);
+     }70%{
+         transform:rotateZ(-20deg);
+     }80%{
+         transform:rotateZ(20deg);
+     }90%{
+         transform:rotateZ(-20deg);
+     }100%{
+         transform:rotateZ(0deg);
+     }
+}
+
+#login_text{
+    background-color: white;
+    padding:20px;
+    position: relative;
+    top: 30px;
+    width: 90%;
+    margin:auto;
+    font-size: 20px;
+
+}

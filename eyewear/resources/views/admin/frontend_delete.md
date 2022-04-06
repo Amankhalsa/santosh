@@ -1,0 +1,1 @@
+<!--{{route('manage.delete_brands',$value->id)}}-->

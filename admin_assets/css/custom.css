@@ -1,0 +1,64 @@
+/* ::MANAGE USER:: */
+#add-user-form{width: 100%;}
+
+.v-align{vertical-align: middle !important;}
+
+/* Styling for social media icons */
+.tum_icon{color: #34526f;font-size: 18px;}
+.vimeo_icon{color: #86c9ef;font-size: 18px;}
+.you_icon{color:#c4302b;font-size:19px;}
+.pin_icon{color: #c8232c;font-size:18px;}
+.ins_icon{color: #e95950;font-size:18px;}
+.lin_icon{color: #0e76a8;font-size:18px;}
+.twi_icon{color: #00acee;font-size:18px;}
+.fac_icon{color: #3b5998;font-size:18px;}
+
+/* Styling for User Type text in ( header_desktop.blade ) file */
+.user_type{font-size: 12px;}
+/* Styling for SEO related information text in ( addedit-category.blade ) file */
+#cat_jumbotron{padding: 20px; border-radius:0; box-shadow: 3px 3px 10px whitesmoke;}
+/* Styling for Category badge text in ( manage-category.blade ) file */
+#badge_category{background-color:gold; color:red; border: 2px solid goldenrod; font-size:10px;}
+
+/* Styling for anchor tag text inside of table tag for ( All ) files */
+table tbody tr td a{color: #5f8aaf;}
+table tbody tr td a:hover{color: #435267;}
+
+/* Styling for table tag for ( All Categories ) files */
+#table_categories{margin:0px !important;}
+
+/* Styling for No Record Found DIV for ( All ) files */
+#no_record_found{box-shadow: 2px 2px 4px #f5c6cb;}
+
+/* Styling for BREADCRUMB NAV tag for ( All ) files */
+#breadcrumb_cat{padding: 0px;margin:0px;background-color: transparent;}
+#breadcrumb_cat li a{color: cadetblue;}
+#breadcrumb_cat li a:hover{color: rgb(34, 124, 128);}
+
+/* Styling for CARD for Categories section ( All categories ) files */
+#card_categories{margin-bottom: 0px !important}
+
+#input-group-span-search-form{padding: 0px !important;margin:0px !important;}
+
+#cat-search-btn{width:70px;height:44px;}
+
+#cat-filter-span{margin-top: 8px;}
+
+#cat-search-icon{font-size: 20px;margin-top: 5px;}
+
+#remove-filter-parent{font-size:15px;color: chocolate;margin-top: 5px;margin-left: 5px;}
+
+#remove-filter-child{font-size:12px; position: relative;left: -8px;top: 5px;}
+
+.iframe-rwd {position: relative;padding-bottom: 50%;padding-top: 30px;height: 0;overflow: hidden;}
+
+.iframe-rwd iframe {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+
+#site-feature-label-text{font-weight: 510;}
+
+.header-wrap h3{
+ color: #000000;
+ font: Helvetica, Arial, Sans-Serif;
+ text-shadow: 1px 1px lightgray,
+ 2px 2px lightgray,
+ 3px 3px lightgray;}

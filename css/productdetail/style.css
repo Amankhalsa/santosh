@@ -1,0 +1,384 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+
+/*new*/
+.img_COL img {
+    width: 100% !important;
+}
+
+.img_COL a {
+    width: 23px;
+}.row.align-items-center.mt-2.space_1 {
+    margin-bottom: 17px;
+}
+.row.align-items-center.mt-2.space_1 {
+    margin-bottom: 17px;
+}
+.class_Btn .btn1 {
+    width: 190px !important;
+}
+.btn3.page_speed_189212093 {
+    width: 190px !important;
+}
+span.paypal_1 {
+    font-size: 20px;
+    font-style: italic;
+}
+.page_speed_1937376606 {
+    padding: 10px 14px !important;
+    font-size: 14px !important;
+    text-shadow: 2px 1px 1px white !important;
+    text-transform: capitalize !important;
+    width: 190px !important;
+}
+a.paypal_2 {
+    padding: 12px 10px;
+    background: #ffc23a;
+    color: #000;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    width: 190px;
+    font-size: 14px;
+}
+
+.class_Btn_new button {
+    width: 320px;
+    background: #000;
+    padding: 13px 0;
+    font-weight: 700;
+    color: #fff;
+}
+.class_Btn_new2 a {
+    width: 320px;
+    border: solid 2px #000;
+    padding: 13px 0;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+}
+.cat_1 {
+    color: #000;
+    margin-bottom: 20px;
+}
+h3 .uan_no {
+    color: #000;
+}
+.logo_img {
+	height: 100%;
+	display: flex;
+	border-left: 1px solid #ccc;
+	padding: 20px;
+	width: 240px;
+	align-items: center;
+	justify-content: center;
+}
+.frame_img{
+    width: 70%;
+    padding:15px;
+    display: inline-block;
+}
+div #reviewcardStyle_1 {
+    border: solid 1px #ccc;
+}
+
+.detail_1 {
+    padding: 15px;
+    border-top: solid 1px #ccc;
+}
+.product_detail {
+    padding: 0px 15px;
+}
+
+.pro_descri {
+    padding: 0px 15px;
+}
+.lense_imgs {
+    /*margin-top: 30px;*/
+    /*border-right: 1px solid #ccc;*/
+}
+.modal_social {
+    margin-top: 15px;
+}
+
+
+.detailList {
+	font-size: 14px;
+}
+.detailList > li + li {
+	padding-top: 5px;
+}
+.proDetailCol {
+	padding: 20px;
+}
+.detailTitle {
+	font-size: 24px;
+	text-transform: none;
+}
+body .row.lense_imgs {
+	margin-top: 0;
+}
+.review-item > .proDetailCol {
+	border-top: 1px solid #ccc;
+}
+.lense_imgs img {
+	width: 140px;
+	height: 60px;
+	object-fit: contain;
+	margin: 0 auto;
+	display: block;
+}
+.tommy_hilfiger_col .btn.minWdBtn {
+	min-width: 220px;
+}
+/*===================new end=================*/
+
+.tommy_hilfiger_col {
+  border: 1px solid #ccc;
+  padding: 20px 20px 30px;
+}
+
+.img_class {
+  width: 120px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.heading_COL h2 {
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: capitalize;
+  position: relative;
+}
+
+.heading_COL h2::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('../images/logo.jpg');
+}
+
+.heading_COL h3 {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.heading_COL p {
+  color: #C4C4C4;
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.color_dollor {
+  color: #F07500;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.color_div {
+  /* font-size: 20px; */
+  font-weight: bold;
+}
+
+.same_col_size {
+  /* font-size: 18px; */
+  font-weight: bold;
+}
+
+
+.btn1, .btn2 {
+  padding: 15px 10px;
+  background: #444444;
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+}
+
+.btn2 {
+	background: #000;
+	color: #fff;
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+
+.btn1:hover {
+  color: #fff;
+}
+
+.btn2:hover {
+  color: #fff;
+}
+
+.btn3 {
+  padding: 20px 73px;
+  border: 2px solid#000;
+  color: #000;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn3:hover {
+  color: #000;
+}
+
+.btn4 {
+  padding: 20px 20px;
+  border: 2px solid#000;
+  color: #000;
+  display: block;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+.btn4:hover {
+  color: #000;
+}
+
+.number {
+  margin-left: 70px;
+  border: 1px solid #ccc;
+}
+
+.minus, .plus {
+	width: 45px;
+	background: #f2f2f2;
+	padding: 7px 5px 7px 5px;
+	border: 1px solid #ddd;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	font-size: 26px;
+	line-height: 1;
+}
+
+.number input {
+	height: 42px;
+	width: 60px;
+	text-align: center;
+	font-size: 16px;
+	border: 1px solid #ddd;
+	display: inline-block;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+.number input:focus {
+  outline: 0;
+}
+
+.swiper_COl .swiper-button-next, .swiper-button-prev {
+  cursor: pointer;
+  color: #f07500;
+  width: 20px;
+  height: 20px;
+}
+
+.swiper_COl .mySwiper .swiper-slide {
+  border: 1px solid #D2D2D2;
+  cursor: pointer;
+  padding: 5px;
+  margin-bottom: 2px;
+}
+.swiper_COl .mySwiper .swiper-slide-thumb-active {
+  border-color: #f07500;
+}
+.mySwiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+
+.mySwiper2 a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 20px 15px;
+}
+
+
+.modal_social h2 {
+	font-size: 24px;
+}
+
+
+@media (max-width:1199px) {
+  .number {
+    margin-left: 0px;
+  }
+ .tommy_hilfiger_col .btn.minWdBtn {
+	min-width: 170px;
+}
+}
+
+
+
+@media (max-width:767px) {
+  .btn1 {
+    padding: 11px 12px;
+    font-size: 10px;
+  }
+
+  .btn2 {
+    padding: 12px 9px;
+    font-size: 10px;
+  }
+
+  .btn3 {
+    padding: 10px 12px;
+    font-size: 10px;
+  }
+
+  .btn4 {
+    padding: 10px 12px;
+    font-size: 10px;
+  }
+
+  .tommy_hilfiger_col {
+    border: 1px solid#000;
+    padding: 8px 8px 12px 12px;
+  }
+ .logo_img {
+	border: none;
+	padding: 10px;
+	width: 100%;
+	height: auto;
+}
+.proDetailCol {
+	padding: 15px;
+}
+.detailTitle {
+	font-size: 20px;
+}
+.class_Btn .minWdBtn {
+    min-width: 100%;
+}
+}
+
+@media (max-width:374px) {
+  .number {
+    border: 2px solid#F07500;
+    margin-left: 0px;
+  }
+}

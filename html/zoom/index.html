@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		
+	</title>
+<link rel="stylesheet" type="text/css" href="jquery.exzoom.css">
+<style type="text/css">
+    body{
+        margin:0;   
+        padding: 0; 
+    }
+    #exzoom{
+        position: absolute;
+        top: 50%;
+        left: 25%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+    }
+</style>
+</head>
+<body>
+<div class="exzoom" id="exzoom">
+  <!-- Images -->
+  <div class="exzoom_img_box">
+    <ul class='exzoom_img_ul'>
+      <li><img src="1.jpg"/></li>
+      <li><img src="2.jpg"/></li>
+      <li><img src="3.jpg"/></li>
+      <li><img src="4.jpg"/></li>
+
+
+    </ul>
+  </div>
+  <!-- <a href="https://www.jqueryscript.net/tags.php?/Thumbnail/">Thumbnail</a> Nav-->
+  <div class="exzoom_nav"></div>
+
+</div>
+<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="jquery.exzoom.js" ></script>
+<script type="text/javascript">
+    $(function(){
+
+  $("#exzoom").exzoom({
+       "autoPlay":false
+    // options here
+  });
+
+});
+</script>
+</body>
+
+</html>
